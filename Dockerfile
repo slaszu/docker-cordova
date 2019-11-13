@@ -1,7 +1,7 @@
 FROM beevelop/java
 
-ARG ANDROID_BUILD_TOOLS_VERSION=27.0.0
-ARG ANDROID_APIS="android-25,android-26" 
+ARG ANDROID_BUILD_TOOLS_VERSION=29.0.2
+ARG ANDROID_APIS="android-28,android-29" 
 ARG ANDROID_SDK_URL="https://dl.google.com/android/repository/tools_r25.2.5-linux.zip"    
 
 ARG CORDOVA_VERSION=9.0.0
