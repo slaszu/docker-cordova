@@ -6,22 +6,20 @@
 [beevelop/android](https://github.com/beevelop/docker-android)   
 
 ----
-### Pull from Docker Hub
-```
-docker pull beevelop/cordova:latest
-```
 
-### Or build from GitHub
+### Use with Docker-Compose
+
+See documentation and example of use  
+[slaszu/docker-compose-cordova-android](https://github.com/slaszu/docker-compose-cordova-android)  
+
+
+### or build from GitHub
 ```
-docker build -t beevelop/cordova github.com/beevelop/docker-java
+docker build -t slaszu/cordova github.com/slaszu/docker-cordova-android
 ```
 
 ### Run image
 ```
-docker run -it beevelop/cordova bash
+docker run -it slaszu/cordova bash
 ```
 
-### Or use as base image
-```Dockerfile
-FROM beevelop/cordova:latest
-```
