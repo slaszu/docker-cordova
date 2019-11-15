@@ -1,9 +1,9 @@
 # Latest Cordova Dockerfile
 ### based on  
 
-[beevelop/android-nodejs](https://github.com/beevelop/docker-android-nodejs) . 
-[beevelop/android-nodejs](https://github.com/beevelop/docker-android-nodejs) . 
-[beevelop/android-nodejs](https://github.com/beevelop/docker-android-nodejs) . 
+[beevelop/cordova](https://github.com/beevelop/docker-cordova)  
+[beevelop/android-nodejs](https://github.com/beevelop/docker-android-nodejs)   
+[beevelop/android](https://github.com/beevelop/docker-android)   
 
 ----
 ### Pull from Docker Hub
